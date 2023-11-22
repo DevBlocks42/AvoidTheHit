@@ -10,3 +10,15 @@ Images :
 
 
 ![Capture d’écran_2023-11-22_17-05-51](https://github.com/DevBlocks42/AvoidTheHit/assets/136115859/f10d3e43-27cc-496a-9a62-59ef80cfd494)
+
+Prérequis : 
+
+- Python3
+- Pygame
+
+Lancement : 
+
+`cd Sources`
+
+
+`python3 game.py`
